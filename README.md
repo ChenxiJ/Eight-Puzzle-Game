@@ -5,7 +5,7 @@ The object is to move to cells around into different positions and having the nu
 
 ## Getting Started
 
-Install Visual Studio and OpenGL for visualisation of the solving process of each state (https://learnopengl.com/). 
+Install Visual Studio (the game is implemented in C++) and OpenGL for visualisation of the solving process of each state (https://learnopengl.com/). 
 
 ## Example of initial and final state of the game
 

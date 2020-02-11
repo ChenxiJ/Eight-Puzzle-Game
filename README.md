@@ -7,6 +7,4 @@ The object is to move to cells around into different positions and having the nu
 
 Install Visual Studio (the game is implemented in C++) and OpenGL for visualisation of the solving process of each state (https://learnopengl.com/). 
 
-## Example of initial and final state of the game
 
-![example](https://cdn1.imggmi.com/uploads/2018/9/10/281be6724b6c25b004f13f8cce7006ed-full.png)
